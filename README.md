@@ -8,7 +8,6 @@ Computer  vision  can  be  used  to  automate  supervision  and  generate approp
 ## DATA DESCRIPTION:
 - The  'Food101  dataset' is a popular food image dataset available on Kaggle. It contains  101  classes  of  foods, each having 1000 images. Classes are typically the names of the food, e.g. apple_pie, french fries, samosa etc.
 - In our use case we have used only a subset of this large dataset to train our models. We used only 6 categories of food due to limited computing resources.
-- Dataset has been attached along with this project. Please use the same for this capstone project 
 - Original link to the dataset: https://www.kaggle.com/datasets/dansbecker/food-101 [ for your reference only ]
 - Reference: It was used in the Paper "Food-101 – Mining Discriminative Components with Random Forests" by Lukas Bossard, Matthieu Guillaumin and Luc Van Gool. It's a good (large dataset) for testing computer vision techniques
 ## Steps taken in the Project:
