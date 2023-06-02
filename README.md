@@ -18,6 +18,7 @@ Computer  vision  can  be  used  to  automate  supervision  and  generate approp
 - Preprocessing and Visualisation of different classes 
 2. Model Building and training:
 - Design, train and test different CNN models for classification, using Transfer Learning
-- Built models like Vgg16, InceptionV3, EffNetB0, MobileNetV1
+- Built models like Vgg16, InceptionV3, EffNetB0, MobileNetV1 that were pre-trained on the 'ImageNet' dataset
+- Optimized these models by adding custom layers and using hyperparameter tuning
 ## Conclusions:
 MobileNetV1 stood out as the best performing model with 0.81 f1-score
