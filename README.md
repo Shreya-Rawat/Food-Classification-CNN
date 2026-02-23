@@ -1,4 +1,4 @@
-# Food-Classification-CNN
+# Food-Image-Classification-CNN
 A computer vision project on classification of food category though an image
 ## DOMAIN: Food Industry
 ## PROJECT OBJECTIVE: 
